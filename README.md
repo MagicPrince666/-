@@ -12,25 +12,25 @@
 
 ## 大学教育
 
-|  开始时间 |    结束时间    |   学校名称  |
-|----------|:-------------:|-----------:|
-| 2012.09  |   2016.07     | 太原工业学院 |
+|开始时间|结束时间|学校名称|
+|------|:-----:|------:|
+|2012.09|2016.07|太原工业学院|
 
 
 ## 工作经历
 
-|  开始时间 |    结束时间    |   公司名称  |
-|----------|:-------------:|-----------:|
-| 2021.05  |   2022.12     | 深圳乐动机器人股份有限公司 |
-| 2017.08  |   2021.05     | 广州极飞科技有限公司 |
-| 2016.07  |   2017.07     | 骏晨科技有限公司 |
+|开始时间|结束时间|公司名称|
+|------|:-----:|------:|
+|2021.05|2022.12|深圳乐动机器人股份有限公司|
+|2017.08|2021.05|广州极飞科技有限公司|
+|2016.07|2017.07|骏晨科技有限公司|
 
 ## 职业技能
 
 * 嵌入式操作系统 linux(openwrt,buildroot,yocto)、freertos；
 * 编程语言 c/c++、python、rust、汇编、html、node.js；
-* 应用软件  libusb、live555、frp、ffmpeg、protocbuf、VPN等;
-* 硬件相关 arm(ti am335x, nxp imx6ull/imx8mm/imx8mp, 全志v3s/f1c200s/H3/H5/R328, amlogic A311D, SigmaStar ssd222d)、mips/mipsel(mtk 7688/7628, Atheros 9432/9531,qca ipq40xx)、mcu（stm/51/esp32/risc-v）；
+* 应用软件  libusb、live555、frp、ffmpeg、protocbuf、openssl、VPN等;
+* 硬件相关 arm(ti am335x, nxp imx6ull/imx8mm/imx8mp, 全志v3s/f1c200s/H3/H5/R328, amlogic A311D, SigmaStar ssd222d, qca ipq40xx)、mips/mipsel(mtk 7688/7628, Atheros 9432/9531)、mcu（stm/51/esp32)、risc-v(全志 D1/D1s)。
 
 ## 项目经验
 ### 乐动机器人
