@@ -140,7 +140,7 @@ AR934x的usb比较奇特，可以做host,也可以做device,但不是otg。Host�
 * 业务应用 x 1
 * 通讯 x 1
 * 软件管理 x 1
-* 系统安全 x 1
+* SDK x 1
 * bsp工程师 x 1
 
 #### 主要工作如下
