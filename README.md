@@ -21,6 +21,7 @@
 
 |开始时间|结束时间|公司名称|
 |------|:-----:|------:|
+|2023.02|至今|霞智科技有限公司|
 |2021.05|2022.12|深圳乐动机器人股份有限公司|
 |2017.08|2021.05|广州极飞科技有限公司|
 |2016.07|2017.07|骏晨科技有限公司|
@@ -29,10 +30,33 @@
 
 * 嵌入式操作系统 linux(openwrt,buildroot,yocto)、freertos；
 * 编程语言 c/c++、python、rust、汇编、html、node.js；
-* 应用软件  libusb、live555、frp、ffmpeg、protocbuf、openssl、VPN等;
-* 硬件相关 arm(ti am335x, nxp imx6ull/imx8mm/imx8mp, 全志v3s/f1c200s/H3/H5/R328, amlogic A311D, SigmaStar ssd222d, qca ipq40xx)、mips/mipsel(mtk 7688/7628, Atheros 9432/9531)、mcu（stm/51/esp32)、risc-v(全志 D1/D1s)。
+* 应用软件  libusb、live555、frp、ffmpeg、protocbuf、openssl、VPN、ros/ros2/cyberrt、cartographer等;
+* 硬件相关 arm(ti am335x, nxp imx6ull/imx8mm/imx8mp, 全志v3s/f1c200s/H3/H5/R328, amlogic A311D, SigmaStar ssd222d, qca ipq40xx, rk3308, rk3588, rk3566)、mips/mipsel(mtk 7688/7628, Atheros 9432/9531)、mcu（stm/51/esp32)、risc-v(全志 D1/D1s)。
 
 ## 项目经验
+
+### 霞智科技
+霞智科技是中兴发展人工智能
+
+#### 运用技术
+c++、python、ros/ros2、cyberrt、深度相机、单线/多线激光雷达、IMU、slam建图、运动控制
+
+#### 负责工作
+1. 清洁机器人驱动中间抽象开发
+
+2. 新产品预研
+
+3. ros/ros2/cyberrt性能对比
+
+4. tf tree建模
+
+5. gazebo仿真模型搭建
+
+6. cartographer建图
+
+7. 多线激光雷达
+
+8. 深度相机
 
 ### 乐动机器人
 深圳乐动机器人有限公司是一家做机器人的公司，尤其擅长扫地机器人领域
