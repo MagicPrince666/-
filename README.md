@@ -28,10 +28,10 @@
 
 ## 职业技能
 
-* 嵌入式操作系统 linux(openwrt,buildroot,yocto)、freertos；
-* 编程语言 c/c++、python、rust、汇编、html、node.js；
-* 应用软件  libusb、live555、frp、ffmpeg、protocbuf、openssl、VPN、ros/ros2/cyberrt、cartographer等;
-* 硬件相关 arm(ti am335x, nxp imx6ull/imx8mm/imx8mp, 全志v3s/f1c200s/H3/H5/R328, amlogic A311D, SigmaStar ssd222d, qca ipq40xx, rk3308, rk3588, rk3566)、mips/mipsel(mtk 7688/7628, Atheros 9432/9531)、mcu（stm/51/esp32)、risc-v(全志 D1/D1s)。
+* 操作系统 linux(openwrt,buildroot,yocto)、freertos；
+* 编程语言 c/c++、python、rust、html、node.js；
+* 应用软件 libusb、live555、frp、ffmpeg、protocbuf、openssl、ros/ros2/cyberrt、cartographer等;
+* 硬件相关 熟悉arm linux, x86 linux平台开发
 
 ## 项目经验
 
@@ -42,22 +42,23 @@
 c++、python、ros/ros2、cyberrt、深度相机、单线/多线激光雷达、IMU、slam建图、运动控制
 
 #### 负责工作
-1. 清洁机器人驱动中间抽象开发
-基于ros1为Skywalker 50产品，制定通讯协议，以及代码实现，负责承接上层应用的指令到底层各类驱动器，
+1. 清洁机器人底盘驱动层抽象开发
+基于can总线，通过canopen协议实现工控机对通用电机驱动器控制，让上层软件可以通过发布订阅方式控制电机行进和转向，同时基于运动编码器提供里程计；基于自研can协议，实现对自研模块控制；基于lora无线通讯模块，实现无线交互
 
-2. 新产品预研
+2. 单线/多线激光雷达
+移植万集单线激光雷达，乐动单线激光雷达，eai单线激光雷达，速腾32线激光雷达和镭神32线激光雷达
 
-3. ros/ros2/cyberrt性能对比
+3. ros/ros2/cyberrt
+基于ros/ros2/cyberrt通讯中间件的应用开发，实现IMU传感器数据发布，遥控数据发布，以及一些自定义格式的订阅和发布
 
 4. tf tree建模
+基于urdf描述机器人坐标转换关系
 
-5. gazebo仿真模型搭建
+5. cartographer建图
+基于cartographer建立2D地图，并保存和编辑栅格地图
 
-6. cartographer建图
-
-7. 多线激光雷达
-
-8. 深度相机
+6. 深度相机
+移植奥比中光深度相机SDK，并解决SDK产生的一系列问题
 
 ### 乐动机器人
 深圳乐动机器人有限公司是一家做机器人的公司，尤其擅长扫地机器人领域
