@@ -28,7 +28,7 @@
 
 ## 职业技能
 
-* 操作系统 linux(openwrt,buildroot,yocto)、freertos；
+* 操作系统 linux(ubuntu,openwrt,buildroot)、freertos、MacOs；
 * 编程语言 c/c++、python、rust、html、node.js；
 * 应用软件 libusb、live555、frp、ffmpeg、protocbuf、openssl、ros/ros2/cyberrt、cartographer等;
 * 硬件相关 熟悉arm linux, x86 linux平台开发
