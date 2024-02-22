@@ -7,7 +7,7 @@
 政治面貌：团 员                         民  族：汉  族                          学  历：本 科
 毕业院校：太原工业学院        专  业：自动化
 邮  箱：846863428@qq.com      手  机：15220187476
-工作经验：7年
+工作经验：8年
 ```
 
 ## 大学教育
@@ -30,7 +30,7 @@
 
 * 操作系统 linux(ubuntu,openwrt,buildroot)、freertos、MacOs；
 * 编程语言 c/c++、python、rust、html、node.js；
-* 应用软件 libusb、live555、frp、ffmpeg、protocbuf、openssl、ros/ros2/cyberrt、cartographer等;
+* 应用软件 live555、QT、ffmpeg、protocbuf、openssl、OpenCL、ros/ros2/cyberrt、cartographer等;
 * 硬件相关 熟悉arm linux, x86 linux平台开发
 
 ## 项目经验
@@ -48,19 +48,19 @@ c++、python、ros/ros2、cyberrt、OpenCL、深度相机、单线/多线激光�
 
 2. 单线/多线激光雷达
 
-移植万集单线激光雷达，乐动单线激光雷达，eai单线激光雷达，速腾32线激光雷达和镭神32线激光雷达
+移植万集单线激光雷达，乐动单线激光雷达，eai单线激光雷达，速腾32线激光雷达和镭神32线激光雷达的SDK并集成到机器人
 
 3. ros/ros2/cyberrt
 
-基于ros/ros2通讯中间件的应用开发，实现兼容两套通讯框架的底盘服务设计，以及一些自定义格式的订阅和发布。 基于ros2+行为树的业务模块设计，做过ros/ros2/cyberrt性能对比，对cyberrt有一定了解
+基于ros/ros2通讯中间件的应用开发，实现ros1/ros2兼容两套通讯框架的底盘服务设计，以及一些自定义格式的订阅和发布。 基于ros2 + 行为树的业务模块设计，做过ros/ros2/cyberrt性能对比，对cyberrt有一定了解
 
 4. tf tree建模
 
-基于urdf描述机器人坐标转换关系
+基于urdf描述机器人各传感器，以及执行部件的坐标转换关系,构建机器人模型
 
 5. cartographer建图
 
-基于cartographer建立2D地图，并保存和编辑栅格地图
+基于cartographer建立2D地图，并保存和使用opencv对栅格地图进行编辑
 
 6. 深度相机
 
@@ -68,7 +68,7 @@ c++、python、ros/ros2、cyberrt、OpenCL、深度相机、单线/多线激光�
 
 7. opencl开发
 
-通过处理器自带的mali显卡，封装OpenCL接口，以加速算法计算性能，降低CPU消耗
+通过ARM处理器自带的mali显卡，封装OpenCL接口，以加速算法计算性能，降低CPU消耗
 
 ### 乐动机器人
 深圳乐动机器人有限公司是一家做机器人的公司，尤其擅长扫地机器人领域
