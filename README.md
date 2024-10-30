@@ -227,8 +227,6 @@ rtsp, socket, rtmp, http, openwrt, wifi, GPS差分定位;
 
 ### 社交
 
-个人博客：<http://blog.csdn.net/u013908686>
-
 github：<https://github.com/MagicPrince666>
 
 ### 求职意向
@@ -236,3 +234,5 @@ github：<https://github.com/MagicPrince666>
 linux系统架构师
 
 c/c++开发
+
+机器人应用开发
